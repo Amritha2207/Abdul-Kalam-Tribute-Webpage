@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <style>
+        img{
+            height:350px;
+            width:250px;
+            border-radius: 50%;
+            margin-top:50;
+            margin-bottom:50;
+            margin-right:50;
+            margin-left:50;
+        }
+        body{
+            background-image:url("https://img.freepik.com/free-vector/yellow-orange-gradient-abstract-background_53876-62624.jpg?w=740&t=st=1679220179~exp=1679220779~hmac=6b4468c57e80c4cd984462c01e39eda8c5038c5d5414081f35de7d3c9865d51d");
+            background-repeat: no-repeat;
+            background-size: 200%,100%;
+            border:solid;
+            margin-top:50;
+            margin-bottom: : 50;
+            margin-right:50;
+            margin-left:50;
+        }
+        p{  font-size:30px;
+            margin-top:50;
+            margin-bottom: : 50;
+            margin-right:50;
+            margin-left:50;
+        }
+        h1{
+            font-size:50px;
+            margin-top:50;
+            margin-bottom: : 50;
+            margin-right:50;
+            margin-left:50;
+        }
+        ul{
+            font-size:25px;
+            margin-top:50;
+            margin-bottom: : 50;
+            margin-right:50;
+            margin-left:50;
+        }
+        h3{
+            font-size:30px;
+            margin-top:50;
+            margin-bottom: : 50;
+            margin-right:50;
+            margin-left:50;
+        }
+        div{
+            margin-top: :50px;
+            display:flex;
+            justify-content:space-between;
+            align-items:flex;
+        }
+        </style>
+
+    </head>
+    <body>
+        <div>
+         <img src="apj.jpg">
+         <h1>A.P.J Abdul Kalam</h1>
+         <h3>15 October 1931 – 27 July 2015</h3>
+    </div>
+    <h1>Missile Man Of India</h1>
+    <p>Avul Pakir Jainulabdeen Abdul Kalam BR (/ˈɑːbdəl kəˈlɑːm/ (listen); 15 October 1931 – 27 July 2015) was an Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.</p>
+    <h1>Awards and Honours</h1>
+    <p>Kalam received 7 honorary doctorates from 40 universities.[151][152] The Government of India honoured him with the Padma Bhushan in 1981 and the Padma Vibhushan in 1990 for his work with ISRO and DRDO and his role as a scientific advisor to the Government.[153] In 1997, Kalam received India's highest civilian honour, the Bharat Ratna, for his contribution to the scientific research and modernisation of defence technology in India.[154] In 2013, he was the recipient of the Von Braun Award from the National Space Society "to recognize excellence in the management and leadership of a space-related project".[155]
+
+        In 2012, Kalam was ranked number 2 in Outlook India's poll of the Greatest Indian.[156]
+        
+        Following his death, Kalam received numerous tributes. The Tamil Nadu state government announced that his birthday, 15 October, would be observed across the state as "Youth Renaissance Day;" the state government further instituted the "Dr. A. P. J. Abdul Kalam Award", constituting an 8-gram gold medal, a certificate and ₹500,000 (US$6,300). The award will be awarded annually on Independence Day, beginning in 2015, to residents of the state with achievements in promoting scientific growth, the humanities or the welfare of students</p>
+      <ul>
+        <li>Kerala Technological University, headquartered at Thiruvananthapuram where Kalam lived for years, was renamed to A P J Abdul Kalam Technological University after his death.</li>
+        <li>An agricultural college at Kishanganj, Bihar, was renamed the "Dr. Kalam Agricultural College, Kishanganj" by the Bihar state government on the day of Kalam's funeral. The state government also announced it would name a proposed science city after Kalam</li>
+        <li>India's First Medical Tech Institute named as Kalam Institute of Health Technology located at Visakhapatnam</li>
+        <li>A new science centre and planetarium in Lawspet, Puducherry.</li>
+      </ul>  
+      <h1>Read more about Abdul Kalam on <a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam">Wikipidea</a></h1>
+    </body>
+</html>
